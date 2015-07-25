@@ -1,4 +1,10 @@
-Viết một đoạn giới thiệu tổng thể về Unitas Việt Nam, tóm tắt những công việc thường làm và có thể làm tốt nhất.
+Tài liệu đang viết dở, thông tin ở đây có thể chưa chính xác. 
+
+Xin hãy giúp chúng tôi hoàn thiện tài liệu này. Góp ý xin gửi tới sedangky@yahoo.com. Nếu anh chị dùng Github, xin mời góp ý tại đây: https://github.com/unitasvn/unitasvn_notes/issues
+
+Cám ơn vạn bội!
+
+---
 
 ### Danh mục (mục lục) các thông tin cần giới thiệu:
 
