@@ -1,4 +1,4 @@
-![](unitas_logo.svg)
+
 
 Tài liệu đang viết dở, thông tin ở đây có thể chưa chính xác. 
 
