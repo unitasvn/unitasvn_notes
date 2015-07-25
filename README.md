@@ -14,3 +14,7 @@ Cám ơn vạn bội!
 - [Các thông tin cần lưu ý khi đặt hàng thiết kế (checklist để khách hàng tự kiểm tra)](p4.md)
 - [Các thông tin cần lưu ý khi đặt hàng in (checklist để khách hàng tự kiểm tra)](p5.md)
 - [Vận chuyển, giao nhận hàng, thanh toán...](p6.md)
+
+---
+
+https://www.gitbook.com/book/unitas/unitas-vietnam-profile/details/
