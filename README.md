@@ -1,4 +1,4 @@
-![](unitas_logo.svg "unitas logo")
+![unitas logo](unitas_logo.svg "unitas logo")
 
 Tài liệu đang viết dở, thông tin ở đây có thể chưa chính xác. 
 
