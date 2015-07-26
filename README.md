@@ -20,3 +20,13 @@ Cám ơn vạn bội!
 ---
 
 https://www.gitbook.com/book/unitas/unitas-vietnam-profile/details/
+
+---
+
+## Về tài liệu này
+
+Tài liệu này được viết nhằm giúp khách hàng có được hình dung tổng thể về quy trình in ấn công nghiệp, nắm được những kiến thức nền tảng, các thuật ngữ chuyên ngành, những chuẩn bị cần thiết để có một sản phẩm in hoàn chỉnh, từ khâu thiết kế đến hoàn thiện sản phẩm.
+
+Tài liệu được trình bày dưới dạng các câu hỏi đáp, chúng tôi tập hợp các câu hỏi thường gặp của khách hàng trong suốt quá trình làm việc. 
+
+Unitas Vietnam không phải bách khoa thư về in ấn, tuy nhiên sẽ cố gắng giải thích một cách cặn kẽ nhất có thể. Đây không phải tài liệu "giáo khoa" về in ấn, do đó có những chỗ pha trò tếu táo. Chúng tôi mong các vị học giả khó tính thể tất
