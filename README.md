@@ -1,6 +1,6 @@
 ![unitas logo](unitas_logo.svg "unitas logo")
 
-Tài liệu đang viết dở, thông tin ở đây có thể chưa chính xác. 
+Tài liệu đang viết dở, thông tin ở đây còn được biên tập nhiều. 
 
 Xin hãy giúp chúng tôi hoàn thiện tài liệu này. Góp ý xin gửi tới sedangky@yahoo.com. Nếu anh chị dùng Github, xin mời góp ý tại đây: https://github.com/unitasvn/unitasvn_notes/issues
 
