@@ -1,11 +1,9 @@
 ### Bọn dots từ đâu ra? Sao lại cần chúng?
-Ngày xưa khi công nghệ in ấn chưa ra đời, công cụ để lưu trữ và truyền bá thông tin hết sức thô sơ, ví dụ như dùng que khắc lên đất sét, dùng dao vạch lên thẻ tre, hoặc đơn giản hơn là... đồn đại. 
+Ngày xưa khi công nghệ in ấn chưa ra đời, công cụ để lưu trữ và truyền bá thông tin hết sức thô sơ, ví dụ như dùng que khắc lên đất sét, dùng dao vạch lên thẻ tre, hoặc cách đơn giản nhất là... đồn.
 
-Thậm chí có vương quốc còn văn minh đến nỗi dùng mật mã. những chiếc trống đồng mà ta vẫn tự hào là thứ mà thời vua Hùng người ta dùng để truyền tin. Chả dụ "tủng tủng cạch" nghĩa là "về ăn cơm thôi", hoặc "tủng tủng cạch cạch" là "cút mẹ chúng mày đi", vân vân. Khi bị giặc xâm lược, lượng tin tức phải báo về kinh nhiều quá, vua nghe nhiều điếc tai nên cú quá bắt đập mẹ hết. Lịch sử mà ta biết hiện giờ có nhiều chỗ khó hiểu chủ yếu là do các sai sót trong khâu đưa tin thời ấy.
+Sau phát minh ra giấy bút, việc truyền tin trở nên nhẹ nhàng hơn, tuy vậy cũng vẫn thô sơ, kém năng suất và vẫn cứ hay sai sót. Lịch sử mà ta biết có nhiều chỗ mù mờ khó hiểu, kiểu như bà Âu Cơ đẻ liền một lúc trăm quả trứng, hay là tằng tằng mỗi tháng mấy quả, chủ yếu là do các sai sót trong khâu ghi chép và đưa tin thời bấy giờ.
 
-Sau phát minh ra giấy bút, việc truyền tin trở nên nhẹ nhàng và ít sai sót hơn, tuy vậy cũng vẫn thô sơ và kém năng suất.
-
-Thật khó tưởng tượng thời ấy người ta làm thế nào để phổ biến một thông tin nào đó. Viết tay ư? Tôi đang hình dung một nhà xuất bản nào đó rộng mênh mông như những xưởng may trong khu công nghiệp hiện giờ. Công nhân trong đó suốt ngày cặm cụi viết lách sột soạt. 
+Thật khó tưởng tượng thời ấy người ta làm thế nào để phổ biến một thông tin nào đó cho thiên hạ. Viết tay ư? Tôi đang hình dung một nhà xuất bản nào đó rộng mênh mông như những xưởng may trong khu công nghiệp hiện giờ. Công nhân trong đó suốt ngày cặm cụi viết vẽ sột soạt. 
 
 Cứ cho là người ta đã có thể tổ chức sản xuất kiểu dây chuyền công nghiệp như thế, thì cũng đếch bảo đảm được tất cả các bản chép tay đều chính xác. Cả chất lượng lẫn năng suất đều kém đến thảm hại. Một người một ngày chép được bao nhiêu cuốn sách cơ chứ? Nhỡ ông ý hắt hơi sổ mũi, hoặc cáu kỉnh chấm phẩy loạn mẹ lên, thì làm thế nào?
 
